@@ -9,5 +9,7 @@ public class Main {
         System.out.println("kolejna nowa rzecz");
 
         System.out.println("nowa rzecz w nowym branchu !!");
+
+        System.out.println("kolejna nowa rzecz w nowym branchu !!");
     }
 }
