@@ -9,5 +9,9 @@ public class Main {
         System.out.println("kolejna nowa rzecz");
 
         System.out.println("jakis commit do mastera i bedze konflikt !!");
+
+        System.out.println("nowa rzecz w nowym branchu !!");
+
+        System.out.println("kolejna nowa rzecz w nowym branchu !!");
     }
 }
