@@ -7,5 +7,7 @@ public class Main {
         System.out.println("nowa rzecz");
 
         System.out.println("kolejna nowa rzecz");
+
+        System.out.println("jakis commit do mastera i bedze konflikt !!");
     }
 }
